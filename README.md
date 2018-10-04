@@ -1,6 +1,12 @@
 A [Giter8][g8] template for Scala-based microservice projects
 
-## How to use it
+## How to use it via SBT
+
+```bash
+sbt new novakov-alexey/scala-service.g8
+```
+
+## How to use it locally
 
 1. Clone it
 2. Install g8: http://www.foundweekends.org/giter8/setup.html
